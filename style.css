@@ -2,6 +2,10 @@ body{
     background-color: grey;
 }
 
+span{
+    font-style: bold;
+}
+
 .haut{
     text-align: center;
 }
@@ -15,9 +19,11 @@ h3{
 
 section{
     background-color: white;
-    margin: 10px;
+    margin: 10px 10px;
+    padding-bottom: 5px;
 }
 ul{
+    text-align: justify;
     width: 20%;
     margin: auto;
 
